@@ -1,0 +1,30 @@
+.titulo{
+    font-family:monospace;
+    border-bottom: solid cyan 5px;
+    border-top: solid cyan 5px;
+    margin-left: 10px;
+}
+
+body{
+    background-color: gray;
+}
+
+
+input{
+   margin: 10px;
+}
+
+
+.texto{
+    font-family:monospace;
+}
+
+
+hr{
+    border-radius: 10px;
+    border: 4px solid black;
+}
+
+.titulo{
+    text-align: center;
+}
